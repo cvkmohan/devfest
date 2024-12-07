@@ -36,67 +36,44 @@ layout: section
 ---
 layout: center
 ---
+<Youtube id="6vMO3XmNXe4" width="854" height="480" />
 
-<div class="relative w-full" style="padding-bottom: 56.25%;">
-  <iframe
-    class="absolute top-0 left-0 w-full h-full"
-    src="https://www.youtube.com/embed/6vMO3XmNXe4?rel=0&autoplay=0&controls=1"
-    title="Knowledge is Getting Cheaper"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-  ></iframe>
-</div>
 
 ---
-layout: two-cols
+layout: image
+image: /typewriter.webp
+backgroundSize: 20em 80%
 ---
 
-# Campus Placements
+# The Hiring Paradox
+
+---
+layout: two-cols-header
+---
+# Campus Reality 2024
+
 ::left::
-- Declining trends in campus recruitment
-- Automation affecting entry-level jobs
-- Higher skill expectations from freshers
+
+- Entry roles automated by AI/LLMs
+- Job requirements:
+  - 0-2 yrs: Full-stack + Cloud + AI
+  - Skills obsolete in 18 months
+- Traditional CS fundamentals ≠ Job ready
 
 ::right::
+
 ```mermaid
 graph TD
-    A[Traditional Jobs] --> B[Automation]
-    B --> C[Reduced Entry Positions]
-    C --> D[Higher Skill Requirements]
-    D --> E[New Age Skills]
+    A[Traditional Skills] -->|Automation| B[Obsolete]
+    B -->|Every 18 months| C[New Tech Stack]
+    C -->|Higher Entry Bar| D[Campus Challenges]
 ```
-
 ---
-layout: two-cols
----
-
-# Content Creator Economy
-::left::
-- YouTube revenue models changing
-- AI-generated content competition
-- Shifting monetization strategies
-
-::right::
-```mermaid
-graph LR
-    A[Content Creation] --> B[Revenue Streams]
-    B --> C[Ads Revenue ↓]
-    B --> D[Sponsorships]
-    B --> E[Alternative Income]
-```
-
----
-layout: two-cols
+layout: center
 ---
 
 # Funding Winter
-::left::
-- Venture capital tightening
-- Focus on profitability
-- Impact on tech startups
 
-::right::
 ```mermaid
 graph TD
     A[Startup Ecosystem] --> B[Funding Challenges]
@@ -112,74 +89,25 @@ layout: section
 # Why Listen to Me?
 
 ---
-layout: two-cols
----
-
-# Technical Journey
-::left::
-- 25+ years hands-on development
-- Full-stack expertise
-- Architecture design
-- Team leadership
-- CTO experience
-
-::right::
-```mermaid
-timeline
-    1998 : Started Programming
-    2005 : Team Lead
-    2010 : Architect
-    2015 : CTO
-    2023 : Still Coding
-```
-
----
-layout: two-cols
----
-
-# Business Perspective
-::left::
-- Employee insights
-- Contractor flexibility
-- Solopreneur challenges
-- Entrepreneurial vision
-
-::right::
-```mermaid
-mindmap
-  root((Career Path))
-    Employee
-      Corporate Structure
-      Team Dynamics
-    Contractor
-      Flexibility
-      Multiple Clients
-    Solopreneur
-      Independence
-      Direct Client Relations
-    Entrepreneur
-      Vision
-      Team Building
-```
-
----
 layout: section
 ---
 
 # The Solution Framework
 
 ---
-layout: two-cols
+layout: two-cols-header
 ---
-
 # Knowledge Layering
+
 ::left::
+
 - Build foundational skills
 - Add specialized expertise
 - Cross-domain knowledge
 - Practical application
 
 ::right::
+
 ```mermaid
 graph TD
     A[Core Skills] --> B[Specialization]
@@ -189,37 +117,18 @@ graph TD
 ```
 
 ---
-layout: default
+layout: center
 ---
 
-# Chess as a Tech Metaphor
+# Chess as an Example
 
-```mermaid
-mindmap
-  root((Chess & Tech))
-    Strategic Thinking
-      Long-term Planning
-      Pattern Recognition
-    Adaptation
-      New Strategies
-      AI Integration
-    Continuous Learning
-      Study Methods
-      Practice Patterns
-```
 
 ---
-layout: two-cols
+layout: center
 ---
 
 # Human Element
-::left::
-- Creativity
-- Problem-solving
-- Emotional intelligence
-- Team collaboration
 
-::right::
 ```mermaid
 graph TD
     A[Human Skills] --> B[Creativity]
@@ -229,29 +138,12 @@ graph TD
 ```
 
 ---
-layout: default
+layout: center
 ---
 
-# Learning to Learn
+# Learn to Learn
+# Learn to Unlearn
 
-```mermaid
-flowchart LR
-    A[Identify Gap] --> B[Research]
-    B --> C[Practice]
-    C --> D[Feedback]
-    D --> E[Iterate]
-    E --> A
-```
-
----
-layout: cover
----
-
-# Learning to Unlearn
-- Question assumptions
-- Adapt to change
-- Embrace new paradigms
-- Stay relevant
 
 ---
 layout: end
@@ -259,4 +151,6 @@ layout: end
 
 # Thank You
 
-Connect & Learn Together
+## धैर्यमेव जयते
+## (Dhairyam Eva Jayate)
+## Meaning: Persistence alone triumphs.
